@@ -27,7 +27,7 @@ function image()
   var i_15 = document.getElementById('img15');
   i_15.setAttribute("src","image/15-min.jpg");
   var i_3 = document.getElementById('img3');
-  i_3.setAttribute("src","image/3-min.JPG");
+  i_3.setAttribute("src","image/3-min.jpg");
   var i_5 = document.getElementById('img5');
   i_5.setAttribute("src","image/5-min.jpg");
   var i_10 = document.getElementById('img10');
@@ -35,7 +35,7 @@ function image()
   var i_8 = document.getElementById('img8');
   i_8.setAttribute("src","image/8-min.jpg");
   var i_13 = document.getElementById('img13');
-  i_13.setAttribute("src","image/13-min.jpg");
+  i_13.setAttribute("src","image/1");
   var i_16 = document.getElementById('img16');
   i_16.setAttribute("src","image/16-min.jpg");
 }
@@ -66,7 +66,7 @@ function image1b()
   var i_4 = document.getElementById('img4');
   i_4.setAttribute("src","image/2-min.JPG");
   var i_6 = document.getElementById('img6');
-  i_6.setAttribute("src","image/3-min.JPG");
+  i_6.setAttribute("src","image/3-min.jpg");
   var i_8 = document.getElementById('img8');
   i_8.setAttribute("src","image/4-min.jpg");
   var i_10 = document.getElementById('img10');
