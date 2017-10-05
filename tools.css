@@ -4,7 +4,7 @@ body
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
-  background-image: url("../image/1.jpg");
+  background-image: url("image/1-min.jpg");
   position: absolute;
   background-size: auto;
   margin: 0px;
@@ -63,8 +63,8 @@ h3
   font-size: 40px;
 }
 .text
-{ z-index: 100;
-  position: absolute;
+{ z-index: 10;
+  position: relative;
   font-size: 40px;
   color: black;
   padding-top: 15%;
@@ -75,7 +75,7 @@ h3
 
 input[type=button]
 {
-  margin-top: 20%;
+  margin-top: 2%;
   border: none;
   padding: 20px;
   border-radius: 40px;
@@ -89,6 +89,7 @@ input[type=button]:hover
   background-color: rgba(245, 50, 64, 1);
   width: 40%;
   text-align: center;
+  z-index: 1000;
 }
 .contact
 {
