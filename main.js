@@ -117,8 +117,8 @@ function image2b()
   var i_16 = document.getElementById('img16');
   i_16.setAttribute("src","image/8-min.jpg");
 }
-setInterval(image1a,3000);
-setInterval(image1b,5000);
-setInterval(image2a,7000);
-setInterval(image2b,9000);
-setInterval(image,11000);
+setInterval(image1a,5000);
+setInterval(image1b,7000);
+setInterval(image2a,9000);
+setInterval(image2b,11000);
+setInterval(image,13000);
