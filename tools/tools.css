@@ -76,6 +76,7 @@ h3
 input[type=button]
 {
   margin-top: 2%;
+  position: relative;
   border: none;
   padding: 20px;
   border-radius: 40px;
@@ -87,6 +88,7 @@ input[type=button]
 input[type=button]:hover
 {
   background-color: rgba(245, 50, 64, 1);
+  position: relative;
   width: 40%;
   text-align: center;
   z-index: 1000;
